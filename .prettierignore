@@ -1,0 +1,14 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
+
+# Ignore artifacts:
+# node_modules
+# dist
+# storybook-static
+# coverage
+# __mocks__
+# README.md
